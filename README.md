@@ -11,7 +11,7 @@ Welcome to my porfolio. Browse the projects below.
 # Python Projects
 | Project Link | Tools | Project Description | 
 |---|---|---|
-
+| 🍪 [Cookie Clicker Bot](https://github.com/atomsc/Cookie-Clicker-Game-Bot) | Python, PyCharm, Selenium | A python script that used Selenium to interact with a web browser game called "Cookie Clicker". The python script automatically opens the browser and plays the game at a rate faster than a human could play.    |
 
 ***
 
@@ -19,7 +19,7 @@ Welcome to my porfolio. Browse the projects below.
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🧑‍⚕️ [Health Care Charges](https://github.com/atomsc/Health_Care_Costs) | Python, Jupyter Notebook | An exploratory data analysis, statistical analysis, and predictive model built for health care charges of insured persons. Various models looked at using XGBoost and other regression models.   |
+| 🧑‍⚕️ [Health Care Charges](https://github.com/atomsc/Health_Care_Costs) | Python, Jupyter Notebook, Numpy, Pandas, sklearn | An exploratory data analysis, statistical analysis, and predictive model built for health care charges of insured persons. Various models looked at using XGBoost and other regression models.   |
 
 
 ***
