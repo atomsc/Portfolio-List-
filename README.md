@@ -12,7 +12,7 @@ Welcome to my porfolio. Browse the projects below.
 | Project Link | Tools | Project Description | 
 |---|---|---|
 | 🍪 [Cookie Clicker Bot](https://github.com/atomsc/Cookie-Clicker-Game-Bot) | Python, PyCharm, Selenium | A python script that uses Selenium to interact with a web browser game called "Cookie Clicker". The python script automatically opens the browser and plays the game at a rate faster than a human could play.    |
-| 🧾 [HSA Automator](https://github.com/atomsc/HSA_Automator) | Python,Selenium | A python script that uses Selenium to interact with a web browser, excel and PDF's to automatd HSA receipt tracking tasks.". The python script automates these tasks.    |
+| 🧾 [HSA Automator](https://github.com/atomsc/HSA_Automator) | Python,Selenium | A python script that uses Selenium to interact with a web browser, excel and PDF's to automate HSA receipt tracking tasks.    |
 
 ***
 
