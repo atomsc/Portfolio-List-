@@ -1,18 +1,17 @@
 # 📝 Adam's Portfolio List
-Welcome to my porfolio. Browse the projects below. 
+Welcome to my portfolio. Browse the projects below.
 
 ## 📚 Table of Contents
-- [Python Prjoecjts](#python-projects)
+- [Python Projects](#python-projects)
 - [Machine Learning](#machine-learning)
-- [Artifical Intellegence](#artifical-intelligence)
+- [Artificial Intelligence](#artificial-intelligence)
 - [R Projects](#r-projects)
-
 
 # Python Projects
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🍪 [Cookie Clicker Bot](https://github.com/atomsc/Cookie-Clicker-Game-Bot) | Python, PyCharm, Selenium | A python script that uses Selenium to interact with a web browser game called "Cookie Clicker". The python script automatically opens the browser and plays the game at a rate faster than a human could play.    |
-| 🧾 [HSA Automator](https://github.com/atomsc/HSA_Automator) | Python,Selenium | A python script that uses Selenium to interact with a web browser, excel and PDF's to automate HSA receipt tracking tasks.    |
+| 🍪 [Cookie Clicker Bot](https://github.com/atomsc/Cookie-Clicker-Game-Bot) | Python, Selenium | A Python script that uses Selenium to interact with a web browser game called "Cookie Clicker". The script automatically opens the browser and plays the game at a rate faster than a human could. |
+| 🧾 [HSA Automator](https://github.com/atomsc/HSA_Automator) | Python, Selenium | This application automates the process of handling Health Savings Account (HSA) receipts, including renaming PDF files based on extracted information, uploading receipts to a web form, and updating an Excel file with transaction details. The application is composed of multiple Python modules, each with specific responsibilities. |
 
 ***
 
@@ -20,17 +19,14 @@ Welcome to my porfolio. Browse the projects below.
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🧑‍⚕️ [Health Care Charges](https://github.com/atomsc/Health_Care_Costs) | Python, Jupyter Notebook, Numpy, Pandas, sklearn | An exploratory data analysis, statistical analysis, and predictive model built for health care charges of insured persons. Various models looked at using XGBoost and other regression models.   |
-
+| 🧑‍⚕️ [Health Care Charges](https://github.com/atomsc/Health_Care_Costs) | Python, Jupyter Notebook, NumPy, Pandas, scikit-learn | An exploratory data analysis, statistical analysis, and predictive model built for health care charges of insured persons. Various models were evaluated, including XGBoost and other regression models. |
 
 ***
 
-
-# Artifical Intelligence
+# Artificial Intelligence
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-
 
 ***
 
@@ -38,6 +34,5 @@ Welcome to my porfolio. Browse the projects below.
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-
 
 ***
